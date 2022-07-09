@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "C:\Users\paraskevoula\Desktop\ergasia\kanones.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greek lexicon of the Roman and Byzantine periods</title>
+                <author>Σοφοκλής Ευαγγελινός Αποστολίδης,</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Oxford University Press</publisher>
+                <address>
+                    <settlement type="city">Cambridge</settlement>
+                </address>
+                <date>1914</date>
+            </publicationStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form>
+                    <orth>καινοειδής,</orth>
+                </form>
+                <gram>ές</gram>
+                <etym>ΕΙΔΩ</etym>
+
+                <sense>
+                    <def>novel, new.</def>
+                    <bibl>Orig. I, 1540 C.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>Καΐνοί</orth>
+                </form>
+                <xr type="syn">
+                    <lbl>see</lbl>
+                    <ref>Καΐανοί</ref>
+                </xr>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινολογία</orth>
+                </form>
+                <gram>, ας, ἡ,</gram>
+                <etym>καινολόγος</etym>
+                <sense>
+                    <def>new mode of expression, strange language.</def>
+                    <bibl>Polyb. 88, 1, 1.</bibl>
+                    <bibl>Dion. H. V, 458, 1.</bibl>
+                    <bibl>Strab. 1, 2, 8.</bibl>
+                    <bibl>Plut.  II, 1068 D.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοπαθέω</orth>
+                </form>
+                <gram> ήσω</gram>
+                <sense>
+                    <def>καινόν τι πάσχω.</def>
+                    <bibl>Plut, II, 1106 A.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοποιία</orth>
+                </form>
+                <gram>, ας, ἡ,</gram>
+                <etym>καινοποιός</etym>
+                <sense>
+                    <def>mutation, change.</def>
+                    <bibl>Polyb. 4, 2, 10.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοποιός</orth>
+                </form>
+                <gram>, ἆ, ὀν,</gram>
+                <etym>ποιέω</etym>
+                <sense>
+                    <def>renovating.</def>
+                    <bibl>Greg.  Naz. II, 608 D, πνεῦμα.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοπραγία</orth>
+                </form>
+                <gram>, ας.  ἡ,</gram>
+                <etym>πράσσω</etym>
+                <sense>
+                    <def> innovation</def>
+                    <bibl>Polyb. 9, 22, 5, intrigue.</bibl>
+                    <bibl>Diod. 15, 8.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοπρεπής</orth>
+                </form>
+                <gram>, ές,</gram>
+                <etym>πρέπω</etym>
+                <sense>
+                    <def>novel, strange.</def>
+                    <cit>
+                        <bibl>Plut.  Il, 334 C.</bibl>
+                        <bibl>Method. 385 B</bibl>
+                        <q>To καινοπρεπές τοῦ θαύματος.</q>
+                    </cit>
+                </sense>
+
+                <sense>
+                    <bibl>Phot. III, 249</bibl>
+                    <def> A, λέξεις, new flanged words.</def>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινός</orth>
+                </form>
+                <gram>, ή, όν, πειυ.</gram>
+
+                <sense>
+                    <def>Καινὸς ἄνθρωπος, the Ro man novus homo.</def>
+                    <bibl>Plut. 1, 336 B. App. II, 176, 31.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινόσπουδος</orth>
+                </form>
+                <gram>, ον</gram>
+                <etym>σπουδή</etym>
+                <sense>
+                    <def> fond of novelty.</def>
+                    <cit>
+                        <bibl>Patriarch. 1105 B.</bibl>
+                        <bibl>Longin. 5, 1 1</bibl>
+                        <q> το καινόσπουδον. fondness for novelty.</q>
+                    </cit>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοτομητέον</orth>
+                </form>
+                <sense>
+                    <def> δεῖ καινοτομεῖν.</def>
+                    <bibl>Athen. Mech. 3.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινότροπος</orth>
+                </form>
+                <gram>ον,</gram>
+                <etym>τρόπος</etym>
+                <def> new-fashioned.</def>
+                <bibl> App. 1, 750, 47.</bibl>
+            </entry>
+
+            <entry>
+
+
+                <form>
+                    <orth>καινούργιος</orth>
+                </form>
+                <gram> , α, ον, </gram>
+                <etym>καινουργός</etym>
+                <sense>
+                    <def> new</def>
+                    <bibl>Aet. 8, 6 p. 150 b, 50</bibl>
+                    <q>χύτρα</q>
+                    <bibl>Theoph. 686, 19.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινουργός</orth>
+                </form>
+                <gram>, όν</gram>
+                <etm>ΕΡΓΩ</etm>
+
+                <sense>
+                    <def>making new, innovating.</def>
+                    <bibl>Pseudo-Jos. Macc. 11.</bibl>
+                </sense>
+
+                <sense>
+                    <def>Newly made, new</def>
+                    <bibl>Lucian. I, 27.</bibl>
+                    <usg type="syn">καινούργιος</usg>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καινοφωνία.</orth>
+                </form>
+                <gram>ας, ή,</gram>
+                <etym>φωνή</etym>
+                <sense>
+                    <def>novelty of sound, simply novelty.</def>
+                    <bibl>Apollon. Ephes. 1384</bibl>
+                    <bibl>A.Eust. Mon. 905 A.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καίνωσις</orth>
+                </form>
+                <gram>, εως, ἡ,</gram>
+                <etym>καινόω</etym>
+                <sense>
+                    <def>innovation.</def>
+                    <bibl>Philon ΙΙ, 45,47.</bibl>
+                    <bibl>Jos. Ant. 18, 6, 10, p. 896.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιρικός</orth>
+                </form>
+                <gram>ή, όν</gram>
+                <etym>καιρός</etym>
+                <sense>
+                    <def> of time: of a season.</def>
+                    <bibl>Ptol. Tetrab. 76. 136.</bibl>
+                    <bibl>Galen. II, 362 D,in the critical time.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιρολουσία</orth>
+                </form>
+                <gram>ας, ἡ</gram>
+                <etym>λούω</etym>
+                <sense>
+                    <def>bathing-time</def>
+                    <bibl>Const.  Apost. 1, 9.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιρός</orth>
+                </form>
+                <gram>ου, ο,</gram>
+
+                <sense>
+                    <def>time</def>
+                    <cit>
+                        <bibl>Aristot, Topic. 3, 2, 4</bibl>
+                        <q>Ἐν παντί καιρῶ, at all times.</q>
+                    </cit>
+                    <cit>
+                        <bibl>3, 2, 3</bibl>
+                        <q> Ἕκαστον ἐν ᾧ καιρῷ μεῖζον δύναται, ἐν τούτῳ καὶ αἱρετώτερον.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Inscr. 3595, 16. 3137</bibl>
+                        <q>Καθ’ ὃν καιρόν, at the time when, simply when.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Sept. Par. 1, 9, 25</bibl>
+                        <q>"Από καιροῦ εις καιρόν, from time to time.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Sap. 4, 4 Ipés</bibl>
+                        <q>καιρόν, for a time, temporarily.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Poly. 1, 7,6. 1,61, 4. 2, 57, 3.  4, 33, 8.  5, 56, 15.  5, 57, 10</bibl>
+                        <q>Καθ’ οὑς καιρούς.</q>
+                    </cit>
+                    <cit>
+                        <bibl>16, 3, 6</bibl>
+                        <q>Έν ῶ καιρῶ, at which time, when.</q>
+                    </cit>
+                    <cit>
+                        <bibl>27, 1, 1.</bibl>
+                        <q>Κατὰ τοῦτον τὸν καιρόν, about this time.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Diod, 1, 19. 4, 185</bibl>
+                        <q>Μέχρι τῶν καθ’ ἡμᾶς καιρῶν, down to our times.</q>
+                    </cit>
+                    <cit>
+                        <bibl>13, 45</bibl>
+                        <q>Πρὸς τὴν τοῦ καιροῦ ροπήν.</q>
+                    </cit>
+                    <cit>
+                        <bibl>19, 46</bibl>
+                        <q>Κατ’ ἐκεῖνον τὸν καιρόν.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Luc 8, 13.Ignat. 721 B</bibl>
+                        <q>Τὸν ὑπὲρ καιρὸν προσδόκα = τὸν ὑπέρχρονον, of whom time is not predicated.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Epict. 1, 11, 98</bibl>
+                        <q>Τὸ μὲν ἀκριβές οὐ τοῦ παρόντος καιροῦ (est).</q>
+                    </cit>
+                    <cit>
+                        <bibil>Sext. 79, 7.  17. 9</bibil>
+                        <q>Κατὰ καιρόν = πρὸς καιρόν.</q>
+                    </cit>
+                    <cit>
+                        <bibil>Pallad.  Laus. 1012</bibil>
+                        <q> A Κατά τὸν καιρόν Μαξιμίνου.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Apocr. Act.  Andr. 14</bibl>
+                        <q>Καιρὸς γάρ ἐστιν ἵνα ἀποδοθῇ τῇ γῇ τὸ σῶμά μου.</q>
+                    </cit>
+                    <cit>
+                        <bibil>Apophth. 84 C</bibil>
+                        <q> Ἔρχεται καιρὸς ἵνα οἳ ἄνθρωποι μανῶσι, the time will come when men will become mad.</q>
+                    </cit>
+                    <cit>
+                        <bibil>Anast. Sin.1057</bibil>
+                        <q>Ὦ Οὕπω καιρὸς ἵνα ἐκτείνῃ τὴν χεῖρα.</q>
+                    </cit>
+                </sense>
+
+
+                <sense>
+                    <def>Opportunity, time.</def>
+
+                    <cit>
+                        <bibl>Dion. H. Il, 640, 13.</bibl>
+                        <q>Λαβεῖν καιρόν, to find opportunity.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Thuc. 2, 34.</bibl>
+                        <bibl>Sept. Ps, 74, 2.</bibl>
+                        <bibl>Polyb. 1, 74, 13. 5, 56,2.</bibl>
+                        <bibl>Diod. 2, 6,</bibl>
+                        <q>ἐπιδείξασθαι.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>18, 46. 15, 1,</bibl>
+                        <q>ἀμύνασθαι.</q>
+                    </cit>
+                    <cit>
+                        <bibl>15, 50</bibl>
+                        <q>Λαβόμενοι καιρου.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>15, 65, εὔθετον.</bibl>
+                        <bibl> Dion. H. Tl, 940, 14.</bibl>
+                        <bibl>Aristeas 1. 21.</bibl>
+                        <bibl>Strab. 5, 3, 5, p. 367, 4</bibl>
+                        <q>Ότε λάβοιεν καιρόν, when they were at leisure.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>7, 1, 4, p. 7, 2</bibl>
+                        <q>Λαβὼν καιρὸν ηὐτομόλησε.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Luc. Act. 24, 25</bibl>
+                        <q>Καιρὸν δὲ μεταλαβών.</q>
+                        <q>Καιρὸν ἔχειν, to have opportunity.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Sept. Macc. 1, 15, 34. 1, 9, 7,</bibl>
+                        <q>συναγαγεῖν.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Diod. 11, 65,</bibl>
+                        <q>εὔθετον.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Dion. H. VI, 1028, 2. 1072, 7.</bibl>
+                        <bibl>Philon TI, 578 D  42,</bibl>
+                        <q>εις τι.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Paul. Hebr. 11, 15.</bibl>
+                        <bibl>Plut. 1, 528 D. I, 763 B. App. I, 150, 34</bibl>
+                        <q>Καιρόν εὑρεῖν, to find opportunity.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Sept.  Sir. 12,16.</bibl>
+                        <bibl>Iambl. V. P. 498</bibl>
+                        <q>Καιρὸν εὗρασθαι μεταβολῆς.</q>
+                    </cit>
+
+                    <cit>
+                        <bil>Basil. IV, 541 B</bil>
+                        <q>εκπληρῶσαι</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Sept. Dan. 2, 8</bibl>
+                        <q>Καιρόν εξαγοράζειν, to gain time.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Plut. 1, 571 A</bibl>
+                        <q>Καιρὸν ὠνεῖσθαι.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Sept. Judith 12, 16</bibl>
+                        <q>Ἐτήρει καιρόν του απατησαι αὐτήν, watched for an opportunity.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Sir. 4, 20</bibl>
+                        <q>Συντηρεῖν καιρόν.</q>
+                    </cit>
+
+                    <cit>
+                        <bible>Polyb. 1, 22, 11. 4, 18, 3. ὃ, 61, 1</bible>
+                        <q>Καιρὸν ἐπιτηρεῖν πρός τι.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>4, 6, 7,</bibl>
+                        <q>παρατηρεῖν.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Plut. I, 286 A,</bibl>
+                        <q>παραφυλάττει</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Herodn. 1, 8, 11</bibl>
+                        <q>φυλάττειν.</q>
+                    </cit>
+
+                    <cit>
+                        <bibl>Greg. Naz. III, 1036 A</bibl>
+                        <q>Καιρὸν δοῦναί τινι πρός τι, to give an opportunity</q>
+                    </cit>
+                    <cit>
+                        <bibl>Polyd. 2, 24, 4. 6, 82, 3. 8, 5, 5</bibl>
+                        <q>Ἐκ του καιροῦ, out of season.</q>
+                    </cit>
+                    <cit>
+                        <bibil>3, 108, 1</bibil>
+                        <q>Σύν καιρῶ, at the right time.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Aristeas 23, 33</bibl>
+                        <q>Ἐκ τοῦ καιροῦ, ex tempore.</q>
+                    </cit>
+                    <cit>
+                        <bibl>Plut. I, 644 Β</bibl>
+                        <q> Ἔπι καιρού, on the spur of the moment.</q>
+                    </cit>
+                </sense>
+
+
+                <sense>
+                    <def>Season = ὥρα.</def>
+                    <bibl>Sept. Gen. 1, 14.</bibl>
+                    <bibl>Philon I, 18, 25. 618, 43.</bibl>
+                    <bibl>Moer. 385.</bibl>
+                    <bibl>Sept. Baruch 1, 14</bibl>
+                    <q>Ἐν ἡμέραις καιροῦ, solemn days.</q>
+                </sense>
+
+                <sense>
+                    <def>year = ἔτος, ἐνιαυτός.</def>
+                    <bibl>Sept. Dan. 12, 7.</bibl>
+                    <bibl>Hippol.  688 C.</bibl>
+                </sense>
+
+                <sense>
+                    <def>An epithet of the number 7.</def>
+                    <bibl>Nicom. 53. Philon ΙΙ, 281, 22.</bibl>
+                </sense>
+
+                <sense>
+                    <def>Permission to commence the service (in the Ritual).</def>
+                    <bibl>Sophrns. 3992 A. 3993 C.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιροσκοπέω</orth>
+                </form>
+                <gram>ήσω</gram>
+                <etym>καιροσκόπος</etym>
+                <sense>
+                    <def> to watch for opportunity.</def>
+                    <bibil> Marc. Erem. 1077 A.</bibil>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιροσκόπος</orth>
+                </form>
+                <gram>ον</gram>
+                <etym>σκοπέων</etym>
+                <sense>
+                    <def> watching for opportunity.</def>
+                    <bibl> Greg. Th. 996 B.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιροτηρέω</orth>
+                </form>
+
+                <etym>τηρέω</etym>
+                <sense>
+                    <def>καιροφυλακέω.</def>
+                    <bibl>Diod. 13, 22. 19. 16.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>καιροτηρησία</orth>
+                </form>
+                <gram>ας, η</gram>
+                <sense>
+                    <def>time-serving</def>
+                    <bibl>Aristeas 31.</bibl>
+                </sense>
+            </entry>
+
+            <entry>
+                <form>
+                    <orth>Καίσαρ</orth>
+                </form>
+                <gram>αρος, ο,</gram>
+                <sense>
+                    <def>Caesar, the name of a Roman family.</def>
+                    <bibl>Diod.1,4.</bibl>
+                    <bibl>Nicol. D. 87.</bibl>
+                    <bibl>Strab.</bibl>
+                </sense>
+            </entry>
+        </body>
+    </text>
+</TEI.2>

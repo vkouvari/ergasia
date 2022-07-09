@@ -1,0 +1,61 @@
+<html>
+
+<body>
+    <button onclick="myFunc()">LoadData()</button>
+    <div id="show" style="white-space: pre-wrap">
+        <ul id="lista">
+        </ul>
+    </div>
+
+    <script>
+        async function _getFile(url) {
+            let response = await fetch(url, {
+                method: 'GET',
+            })
+            let obj = await response.text()
+            return obj
+        }
+
+        async function myFunc() {
+            file = "tei-encoding.xml"
+            resp = await _getFile(file)
+            parser = new DOMParser();
+            xmlDoc = parser.parseFromString(resp, "text/xml");
+            entries = xmlDoc.getElementsByTagName("entry")
+            str = ''
+            for (entry of entries) {
+                word = entry.getElementsByTagName("orth")[0].innerHTML
+                wordhtml = "<b>" + word + "</b>:"
+
+            console.log("trying")
+                kwdikasennoiwn = ""
+                senses = entry.getElementsByTagName("sense")
+                for (sense of senses) {
+
+        def = sense.getElementsByTagName("def")[0].innerHTML
+                kwdikasennoiwn =  kwdikasennoiwn + "<li>" + def + "</li>"
+
+            kwdikas_paratheseis  = ""
+                    paratheseis = sense.getElementsByTagName("cit")
+            for (i = 0; i < paratheseis.length; i++) {
+                        kwdikas_paratheseis = kwdikas_paratheseis + paratheseis[i].innerHTML 
+                    }
+
+                    bibliografiakwdikas  = ""
+                bibliographia = sense.getElementsByTagName("bibl")
+                    for (i = 0; i < bibliographia.length; i++) {
+                        bibliografiakwdikas =  bibliografiakwdikas + bibliographia[i].innerHTML 
+                    }
+                    kwdikasennoiwn = kwdikasennoiwn + "Citations: " + kwdikas_paratheseis + "\n" + "Bibliography: " + bibliografiakwdikas
+                }
+
+
+                item = "<li>" + wordhtml + "<ol>" + kwdikasennoiwn + "</ol>" + "</li>"
+                str = str + item
+            }
+            document.getElementById("lista").innerHTML = str
+        }
+    </script>
+</body>
+
+</html>

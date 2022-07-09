@@ -1,0 +1,37 @@
+<!ELEMENT TEI.2 (teiHeader, text)>
+<!ELEMENT teiHeader (fileDesc)>
+<!ELEMENT fileDesc (titleStmt, publicationStmt)>
+<!ELEMENT titleStmt (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publicationStmt (publisher, address, date)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT address (settlement)>
+<!ELEMENT settlement (#PCDATA)>
+<!ATTLIST settlement
+          type CDATA #REQUIRED>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT text (body)>
+<!ELEMENT body (entry+)>
+<!ELEMENT entry (form, xr?, gram?, etym?, def?, bibl?, etm?, sense*)>
+<!ELEMENT form (orth)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT gram (#PCDATA)>
+<!ELEMENT etym (#PCDATA)>
+<!ELEMENT sense (bibl | def | cit | bibil | usg | q)+>
+<!ELEMENT def (#PCDATA)>
+<!ELEMENT bibl (#PCDATA)>
+<!ELEMENT xr (lbl, ref)>
+<!ATTLIST xr
+          type CDATA #REQUIRED>
+<!ELEMENT lbl (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT cit (bibil?, bil?, bible?, bibl*, q+)>
+<!ELEMENT q (#PCDATA)>
+<!ELEMENT etm (#PCDATA)>
+<!ELEMENT usg (#PCDATA)>
+<!ATTLIST usg
+          type CDATA #REQUIRED>
+<!ELEMENT bibil (#PCDATA)>
+<!ELEMENT bil (#PCDATA)>
+<!ELEMENT bible (#PCDATA)>
